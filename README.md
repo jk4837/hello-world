@@ -1,3 +1,3 @@
 # hello-world
 
-# Hi this is the first test on GitHub.
+# Hi, this is the first test on GitHub.
